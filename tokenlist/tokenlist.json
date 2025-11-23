@@ -1,0 +1,17 @@
+{
+  "name": "Frozen USDT List",
+  "logoURI": "https://zhuoyif291-design.github.io/FrozenUSDT/logo.png",
+  "keywords": ["FUSDT", "Frozen USDT", "stablecoin", "conceptual"],
+  "timestamp": "2025-11-23T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x427Faf7DF726eFDf5921375192f0e38ABdcd01FB",
+      "name": "Frozen USDT",
+      "symbol": "FUSDT",
+      "decimals": 18,
+      "logoURI": "https://zhuoyif291-design.github.io/FrozenUSDT/logo.png"
+    }
+  ]
+}
