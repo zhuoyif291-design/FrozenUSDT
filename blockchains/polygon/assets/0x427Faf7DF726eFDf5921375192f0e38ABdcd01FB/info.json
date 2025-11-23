@@ -9,8 +9,11 @@
   "logo": "https://zhuoyif291-design.github.io/FrozenUSDT/logo.png",
   "id": "0x427Faf7DF726eFDf5921375192f0e38ABdcd01FB",
   "status": "active",
-  "twitter": "https://twitter.com/yourproject",
   "github": "https://github.com/zhuoyif291-design/FrozenUSDT",
+  "links": [
+    "https://zhuoyif291-design.github.io/FrozenUSDT/",
+    "https://github.com/zhuoyif291-design/FrozenUSDT"
+  ],
   "tags": ["stablecoin", "conceptual"],
   "holders": 1
 }
